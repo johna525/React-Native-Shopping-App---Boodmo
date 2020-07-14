@@ -1,0 +1,42 @@
+platform :ios, '7.0'
+
+target 'boodmo' do
+  use_frameworks!
+
+  # Pods for boodmo
+  pod 'Firebase'
+  pod 'Firebase/Core'
+  pod 'Firebase/Crash'
+  pod 'Firebase/Messaging'
+  pod 'CodePush'
+  pod 'UXCam'
+  pod 'Fabric'
+  pod 'Crashlytics'
+
+  target 'boodmoTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'GoogleToolboxForMac'
+  end
+
+end
+
+post_install do |installer|
+    installer.pods_project.targets.each do |target|
+        if target.name == 'yoga'
+            # Workaround: react-native v0.52 bug issue #17274
+            # node_modules/react-native/ReactCommon/yoga/yoga/YGNodePrint.cpp:208:46: Implicit conversion loses integer
+            # precision: 'size_type' (aka 'unsigned long') to 'const uint32_t' (aka 'const unsigned int')
+            # https://github.com/facebook/react-native/issues/17274#issuecomment-356363557
+            target.build_configurations.each do |config|
+                config.build_settings['GCC_TREAT_WARNINGS_AS_ERRORS'] = 'NO'
+                config.build_settings['GCC_WARN_64_TO_32_BIT_CONVERSION'] = 'NO'
+            end
+        end
+        if target.name == 'RNSVG'
+            target.build_configurations.each do |config|
+                config.build_settings['GCC_NO_COMMON_BLOCKS'] = 'NO'
+            end
+        end
+    end
+end

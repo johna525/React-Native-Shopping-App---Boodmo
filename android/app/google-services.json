@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "238199217113",
+    "firebase_url": "https://boodmo-test.firebaseio.com",
+    "project_id": "boodmo-test",
+    "storage_bucket": "boodmo-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238199217113:android:66c723d23e21fec5",
+        "android_client_info": {
+          "package_name": "com.opsway.boodmo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238199217113-49fkdvi9tk9u65hea3kpe87d1b299qjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8iWxiuMcbNCsnKFgNVNyVB2VgvbLZ94Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

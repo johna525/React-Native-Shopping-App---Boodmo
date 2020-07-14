@@ -1,0 +1,1402 @@
+[
+  {
+    "Code": "20001",
+    "Description": "Refer to Card Issuer"
+  },
+  {
+    "Code": "20002",
+    "Description": "Refer to Card Issuer - Special Conditions"
+  },
+  {
+    "Code": "20003",
+    "Description": "Invalid Merchant, or Merchant is not active"
+  },
+  {
+    "Code": "20005",
+    "Description": "Declined - Do Not Honour"
+  },
+  {
+    "Code": "20006",
+    "Description": "Error / Invalid Request Parameters"
+  },
+  {
+    "Code": "20009",
+    "Description": "Request in Progress"
+  },
+  {
+    "Code": "20010",
+    "Description": "Partial Value Approved"
+  },
+  {
+    "Code": "20012",
+    "Description": "Invalid Transaction"
+  },
+  {
+    "Code": "20013",
+    "Description": "Invalid Value/Amount"
+  },
+  {
+    "Code": "20014",
+    "Description": "Invalid Card Number"
+  },
+  {
+    "Code": "20017",
+    "Description": "Customer Cancellation"
+  },
+  {
+    "Code": "20018",
+    "Description": "Customer Dispute"
+  },
+  {
+    "Code": "20019",
+    "Description": "Re-enter Transaction or Transaction has been expired"
+  },
+  {
+    "Code": "20020",
+    "Description": "Invalid Response"
+  },
+  {
+    "Code": "20021",
+    "Description": "No Action Taken"
+  },
+  {
+    "Code": "20022",
+    "Description": "Suspected Malfunction"
+  },
+  {
+    "Code": "20023",
+    "Description": "Unacceptable Transaction Fee"
+  },
+  {
+    "Code": "20024",
+    "Description": "File Update not Supported by Reciever"
+  },
+  {
+    "Code": "20025",
+    "Description": "Unable to Locate Record on File"
+  },
+  {
+    "Code": "20026",
+    "Description": "Duplicate File Update Record"
+  },
+  {
+    "Code": "20027",
+    "Description": "File Update Field Edit Error"
+  },
+  {
+    "Code": "20028",
+    "Description": "File Update File Locked Out"
+  },
+  {
+    "Code": "20029",
+    "Description": "File Update not Successful"
+  },
+  {
+    "Code": "20030",
+    "Description": "Format Error"
+  },
+  {
+    "Code": "20031",
+    "Description": "Bank not Supported by Switch"
+  },
+  {
+    "Code": "20032",
+    "Description": "Completed Partially"
+  },
+  {
+    "Code": "20039",
+    "Description": "No CREDIT Account"
+  },
+  {
+    "Code": "20040",
+    "Description": "Requested Function not Supported"
+  },
+  {
+    "Code": "20042",
+    "Description": "No Universal Value/Amount"
+  },
+  {
+    "Code": "20044",
+    "Description": "No Investment Account"
+  },
+  {
+    "Code": "20046",
+    "Description": "Bank Decline"
+  },
+  {
+    "Code": "20051",
+    "Description": "Insufficient Funds"
+  },
+  {
+    "Code": "20052",
+    "Description": "No Cheque Account"
+  },
+  {
+    "Code": "20053",
+    "Description": "No Savings Account"
+  },
+  {
+    "Code": "20054",
+    "Description": "Expired Card"
+  },
+  {
+    "Code": "20055",
+    "Description": "Incorrect PIN (invalid Amex CVV)"
+  },
+  {
+    "Code": "20056",
+    "Description": "No Card Record"
+  },
+  {
+    "Code": "20057",
+    "Description": "Transaction not Permitted to Cardholder"
+  },
+  {
+    "Code": "20058",
+    "Description": "Transaction not Permitted to Terminal"
+  },
+  {
+    "Code": "20059",
+    "Description": "Suspected Fraud"
+  },
+  {
+    "Code": "20060",
+    "Description": "Card Acceptor Contact Acquirer"
+  },
+  {
+    "Code": "20061",
+    "Description": "Exceeds Withdrawal Value/Amount Limits"
+  },
+  {
+    "Code": "20062",
+    "Description": "Restricted Card"
+  },
+  {
+    "Code": "20063",
+    "Description": "Security Violation"
+  },
+  {
+    "Code": "20064",
+    "Description": "Original Value Incorrect"
+  },
+  {
+    "Code": "20065",
+    "Description": "Exceeds Withdrawal Frequency Limit"
+  },
+  {
+    "Code": "20066",
+    "Description": "Card Acceptor Call Acquirer Security"
+  },
+  {
+    "Code": "20067",
+    "Description": "Hard Capture—Pick Up Card at ATM"
+  },
+  {
+    "Code": "20068",
+    "Description": "Response Received Too Late / Timeout"
+  },
+  {
+    "Code": "20075",
+    "Description": "Allowable PIN Tries Exceeded"
+  },
+  {
+    "Code": "20082",
+    "Description": "No security model"
+  },
+  {
+    "Code": "20083",
+    "Description": "No accounts"
+  },
+  {
+    "Code": "20084",
+    "Description": "No PBF"
+  },
+  {
+    "Code": "20085",
+    "Description": "PBF update error"
+  },
+  {
+    "Code": "20086",
+    "Description": "ATM Malfunction / Invalid authorisation type"
+  },
+  {
+    "Code": "20087",
+    "Description": "Bad Track Data (invalid CVV and/or expiry date)"
+  },
+  {
+    "Code": "20088",
+    "Description": "Unable to Dispense/process"
+  },
+  {
+    "Code": "20089",
+    "Description": "Administration Error"
+  },
+  {
+    "Code": "20090",
+    "Description": "Cut-off in Progress"
+  },
+  {
+    "Code": "20091",
+    "Description": "Issuer or Switch is Inoperative"
+  },
+  {
+    "Code": "20092",
+    "Description": "Financial Institution not Found"
+  },
+  {
+    "Code": "20093",
+    "Description": "Transaction Cannot be Completed"
+  },
+  {
+    "Code": "20094",
+    "Description": "Duplicate Transmission/Invoice"
+  },
+  {
+    "Code": "20095",
+    "Description": "Reconcile Error"
+  },
+  {
+    "Code": "20096",
+    "Description": "System Malfunction"
+  },
+  {
+    "Code": "20097",
+    "Description": "Reconciliation Totals Reset"
+  },
+  {
+    "Code": "20098",
+    "Description": "MAC Error"
+  },
+  {
+    "Code": "20099",
+    "Description": "Other / Unidentified responses"
+  },
+  {
+    "Code": "200N0",
+    "Description": "Unable to authorize"
+  },
+  {
+    "Code": "200N7",
+    "Description": "Decline for CVV2 failure"
+  },
+  {
+    "Code": "200O5",
+    "Description": "Pin Required"
+  },
+  {
+    "Code": "200P1",
+    "Description": "Over Daily Limit"
+  },
+  {
+    "Code": "200P9",
+    "Description": "Limit exceeded. Enter a lesser value"
+  },
+  {
+    "Code": "200R1",
+    "Description": "Issuer initiated a stop payment (revocation order) for the Authorization"
+  },
+  {
+    "Code": "200R3",
+    "Description": "Issuer initiated a stop payment (revocation order) for all Authorizations"
+  },
+  {
+    "Code": "200S4",
+    "Description": "PTLF Full"
+  },
+  {
+    "Code": "200T2",
+    "Description": "Invalid Transaction Date"
+  },
+  {
+    "Code": "200T3",
+    "Description": "Card not supported"
+  },
+  {
+    "Code": "200T5",
+    "Description": "CAF Status=0 or 9"
+  },
+  {
+    "Code": "20100",
+    "Description": "Invalid Expiry Date Format"
+  },
+  {
+    "Code": "20101",
+    "Description": "No Account / No Customer (Token incorrect or invalid)"
+  },
+  {
+    "Code": "20102",
+    "Description": "Invalid Merchant/Wallet ID"
+  },
+  {
+    "Code": "20103",
+    "Description": "Card type/Payment method not supported"
+  },
+  {
+    "Code": "20104",
+    "Description": "Gateway Reject - Invalid Transaction"
+  },
+  {
+    "Code": "20105",
+    "Description": "Gateway Reject - Violation"
+  },
+  {
+    "Code": "20106",
+    "Description": "Unsupported currency"
+  },
+  {
+    "Code": "20107",
+    "Description": "Billing address is missing"
+  },
+  {
+    "Code": "20108",
+    "Description": "Declined - Updated Cardholder Available"
+  },
+  {
+    "Code": "20109",
+    "Description": "Authorisation Already Reversed (voided) or Capture is larger than initial Authorised Value"
+  },
+  {
+    "Code": "20110",
+    "Description": "Authorization completed"
+  },
+  {
+    "Code": "20111",
+    "Description": "Transaction already reversed"
+  },
+  {
+    "Code": "20112",
+    "Description": "Merchant not MasterCard SecureCode enabled"
+  },
+  {
+    "Code": "20113",
+    "Description": "Invalid Property"
+  },
+  {
+    "Code": "20114",
+    "Description": "Invalid Channel or Token is incorrect"
+  },
+  {
+    "Code": "20115",
+    "Description": "Missing/Invalid Lifetime"
+  },
+  {
+    "Code": "20116",
+    "Description": "Invalid Encoding"
+  },
+  {
+    "Code": "20117",
+    "Description": "Invalid API Version"
+  },
+  {
+    "Code": "20118",
+    "Description": "Transaction Pending"
+  },
+  {
+    "Code": "20119",
+    "Description": "Invalid Batch data and/or batch data is missing"
+  },
+  {
+    "Code": "20120",
+    "Description": "Invalid Customer/User"
+  },
+  {
+    "Code": "20121",
+    "Description": "Transaction Limit for Merchant/Terminal exceeded"
+  },
+  {
+    "Code": "20123",
+    "Description": "MISSING BASIC DATA: zip, addr, member"
+  },
+  {
+    "Code": "20150",
+    "Description": "Card not 3DS enabled"
+  },
+  {
+    "Code": "20151",
+    "Description": "Cardholder failed 3D authentication"
+  },
+  {
+    "Code": "20152",
+    "Description": "Initial 3D transaction not completed within 15 minutes"
+  },
+  {
+    "Code": "20153",
+    "Description": "3D-Secure system malfunction"
+  },
+  {
+    "Code": 30004,
+    "Description": "Pick Up Card (No Fraud) The customer's issuing bank has prevented the transaction from being authorized. Have your customer call their issuing bank (the number is typically printed on the back of the credit card) and ask why the transaction was declined. Once the issuing bank confirms that they will approve future attempts, try the transaction again"
+  },
+  {
+    "Code": 30007,
+    "Description": "Pick Up Card, Special Conditions The customer's issuing bank has prevented the transaction from being authorized because fraudulent activity has been detected on this account. For a one time transaction, do not attempt the transaction again, and if possible do not provide goods or services to the person attempting the transaction. For a recurring or scheduled transaction, it is possible that the card was flagged after the last successfully processed payment (or after the authorization for the scheduled payment). In that case, contact your customer for a new credit card number, or ask for a different form of payment. Replace the old account number on the schedule with the new account number"
+  },
+  {
+    "Code": 30015,
+    "Description": "No Such Issuer The card number entered is invalid because it does not start with a 3 (AMEX), 4 (Visa), 5 (MasterCard) or 6 (Discover). Double check the credit card number and try the transaction again with a corrected card number"
+  },
+  {
+    "Code": 30033,
+    "Description": "Expired Card - Pick Up"
+  },
+  {
+    "Code": 30034,
+    "Description": "Suspected Fraud - Pick Up"
+  },
+  {
+    "Code": 30035,
+    "Description": "Contact Acquirer - Pick Up"
+  },
+  {
+    "Code": 30036,
+    "Description": "Restricted Card - Pick Up"
+  },
+  {
+    "Code": 30037,
+    "Description": "Call Acquirer Security - Pick Up"
+  },
+  {
+    "Code": 30038,
+    "Description": "Allowable PIN Tries Exceeded - pick up"
+  },
+  {
+    "Code": 30041,
+    "Description": "Lost Card - Pick Up The customer's issuing bank has prevented the transaction from being authorized because the card's rightful owner has reported it as lost.  For a one time transaction, do not attempt the transaction again, and if possible do not provide goods or services to the person attempting the transaction. For a recurring or scheduled transaction, it is possible that the card was lost after the last successfully processed payment (or after the authorization for the scheduled payment). In that case, contact your customer for a new credit card number, or ask for a different form of payment. Replace the lost account number on the schedule with the new account number"
+  },
+  {
+    "Code": 30043,
+    "Description": "Stolen Card - Pick Up The customer's issuing bank has prevented the transaction from being authorized because the card's rightful owner has reported it as lost.  For a one time transaction, do not attempt the transaction again, and if possible do not provide goods or services to the person attempting the transaction. For a recurring or scheduled transaction, it is possible that the card was lost after the last successfully processed payment (or after the authorization for the scheduled payment). In that case, contact your customer for a new credit card number, or ask for a different form of payment. Replace the lost account number on the schedule with the new account number"
+  },
+  {
+    "Code": "40101",
+    "Description": "Risk Blocked  Transaction refused due to risk model   Please log-in to your gateway dashboard for more details"
+  },
+  {
+    "Code": "40102",
+    "Description": "Country not supported The merchant country is not supported. The country which the shopper is located is restricted by your Risk Module. To change it or to authorize transaction, please log-in to your gateway dashboard"
+  },
+  {
+    "Code": "40103",
+    "Description": "Gateway Reject - Blacklist Transaction cannot be processed - Payment attributes in Blacklist One or more of the payment attributes has been blacklisted by either you or our international blacklist database"
+  },
+  {
+    "Code": "40104",
+    "Description": "Gateway Reject - CVV is missing or incorrect  The merchant's configuration requires a CVV to be entered, but no CVV was provided with this transaction or CVV is incorrect.   Please try again, but this time include CVV number. Alternatively, you can change your settings in the Risk Module. To do that, please log-in to your gateway dashboard, and enter your Risk Module settings"
+  },
+  {
+    "Code": "40108",
+    "Description": "Gateway Reject - Post code failed  The card's Post code failed validation. Retry the request with a different post code"
+  },
+  {
+    "Code": "40109",
+    "Description": "Gateway Reject - Missing required data Please make sure all required data is sent, such as: CVV, Expiry date, Cardholder name, Billing address, Postcode etc"
+  },
+  {
+    "Code": "40110",
+    "Description": "Missing 3DSecure data or data is not correct"
+  },
+  {
+    "Code": "40111",
+    "Description": "Declined - AVS not matched The transaction was declined because of a merchant risk filter for AVS. Specifically the merchant has set to decline transaction when the AVS returned a no match (AVS = N). Retry the request with a different Billing Address"
+  },
+  {
+    "Code": "40131",
+    "Description": "Mismatch - Shipping to Billing Shipping country does not match billing country"
+  },
+  {
+    "Code": "40132",
+    "Description": "Mismatch - Shipping to BIN Shipping country does not match bin country"
+  },
+  {
+    "Code": "40133",
+    "Description": "Mismatch - Shipping to IP Shipping country does not match IP country"
+  },
+  {
+    "Code": "40135",
+    "Description": "Mismatch - Billing to BIN Billing country does not match bin country"
+  },
+  {
+    "Code": "40136",
+    "Description": "Mismatch - Billing to IP Billing country does not match IP country"
+  },
+  {
+    "Code": "40138",
+    "Description": "Mismatch - BIN to IP Bin country does not match IP country"
+  },
+  {
+    "Code": "40141 - 40149",
+    "Description": "Threshold Risk"
+  },
+  {
+    "Code": "40150",
+    "Description": "Card velocity - Daily - Approved only"
+  },
+  {
+    "Code": "40151",
+    "Description": "Card velocity - Daily - All transactions"
+  },
+  {
+    "Code": "40152",
+    "Description": "Card velocity - Weekly - Approved only"
+  },
+  {
+    "Code": "40153",
+    "Description": "Card velocity - Weekly - All transactions"
+  },
+  {
+    "Code": "40154",
+    "Description": "Card velocity - Monthly - Approved only"
+  },
+  {
+    "Code": "40155",
+    "Description": "Card velocity - Monthly - All transactions"
+  },
+  {
+    "Code": "40160",
+    "Description": "Email velocity - Daily - Approved only"
+  },
+  {
+    "Code": "40161",
+    "Description": "Email velocity - Daily - All transactions"
+  },
+  {
+    "Code": "40162",
+    "Description": "Email velocity - Weekly - Approved only"
+  },
+  {
+    "Code": "40163",
+    "Description": "Email velocity - Weekly - All transactions"
+  },
+  {
+    "Code": "40164",
+    "Description": "Email velocity - Monthly - Approved only"
+  },
+  {
+    "Code": "40165",
+    "Description": "Email velocity - Monthly - All transactions"
+  },
+  {
+    "Code": "40170",
+    "Description": "IP velocity - Daily - Approved only"
+  },
+  {
+    "Code": "40171",
+    "Description": "IP velocity - Daily - All transactions"
+  },
+  {
+    "Code": "40181",
+    "Description": "Verified Info - Email"
+  },
+  {
+    "Code": "40182",
+    "Description": "Verified Info - Address"
+  },
+  {
+    "Code": "40183",
+    "Description": "Verified Info - Proxy"
+  },
+  {
+    "Code": "40201",
+    "Description": "Gateway Reject - Card Number Blacklist"
+  },
+  {
+    "Code": "40202",
+    "Description": "Gateway Reject - IP Address Blacklist"
+  },
+  {
+    "Code": "40203",
+    "Description": "Gateway Reject - Email Blacklist"
+  },
+  {
+    "Code": "40204",
+    "Description": "Gateway Reject - Phone Number Blacklist"
+  },
+  {
+    "Code": "40210",
+    "Description": "Bin Velocity - Daily - Approved Only"
+  },
+  {
+    "Code": "40211",
+    "Description": "Bin Velocity - Daily - All transactions"
+  },
+  {
+    "Code": "40212",
+    "Description": "Bin Velocity - Weekly - Approved Only"
+  },
+  {
+    "Code": "40213",
+    "Description": "Bin Velocity - Weekly - All transactions"
+  },
+  {
+    "Code": "40214",
+    "Description": "Bin Velocity - Monthly - Approved Only"
+  },
+  {
+    "Code": "40215",
+    "Description": "Bin Velocity - Monthly - All transactions"
+  },
+  {
+    "Code": "40216",
+    "Description": "Billing Address Line 1 Velocity - Daily - Approved Only"
+  },
+  {
+    "Code": "40217",
+    "Description": "Billing Address Line 1 Velocity - Daily - All transactions"
+  },
+  {
+    "Code": "40218",
+    "Description": "Billing Address Line 1 Velocity - Weekly - Approved Only"
+  },
+  {
+    "Code": "40219",
+    "Description": "Billing Address Line 1 Velocity - Weekly - All transactions"
+  },
+  {
+    "Code": "40220",
+    "Description": "Billing Address Line 1 Velocity - Monthly - Approved Only"
+  },
+  {
+    "Code": "40221",
+    "Description": "Billing Address Line 1 Velocity - Monthly - All transactions"
+  },
+  {
+    "Code": "40222",
+    "Description": "Shipping Address Line 1 Velocity - Daily - Approved Only"
+  },
+  {
+    "Code": "40223",
+    "Description": "Shipping Address Line 1 Velocity - Daily - All transactions"
+  },
+  {
+    "Code": "40224",
+    "Description": "Shipping Address Line 1 Velocity - Weekly - Approved Only"
+  },
+  {
+    "Code": "40225",
+    "Description": "Shipping Address Line 1 Velocity - Weekly - All transactions"
+  },
+  {
+    "Code": "40226",
+    "Description": "Shipping Address Line 1 Velocity - Monthly - Approved Only"
+  },
+  {
+    "Code": "40227",
+    "Description": "Shipping Address Line 1 Velocity - Monthly - All transactions"
+  },
+  {
+    "Code": "40228",
+    "Description": "CardHolder Name Velocity - Daily - Approved Only"
+  },
+  {
+    "Code": "40229",
+    "Description": "CardHolder Name Velocity - Daily - All transactions"
+  },
+  {
+    "Code": "40230",
+    "Description": "CardHolder Name Velocity - Weekly - Approved Only"
+  },
+  {
+    "Code": "40231",
+    "Description": "CardHolder Name Velocity - Weekly - All transactions"
+  },
+  {
+    "Code": "40232",
+    "Description": "CardHolder Name Velocity - Monthly - Approved Only"
+  },
+  {
+    "Code": "40233",
+    "Description": "CardHolder Name Velocity - Monthly - All transactions"
+  },
+  {
+    "Code": "40234",
+    "Description": "UDF1 Velocity - Daily - Approved Only"
+  },
+  {
+    "Code": "40235",
+    "Description": "UDF1 Velocity - Daily - All transactions"
+  },
+  {
+    "Code": "40236",
+    "Description": "UDF1 Velocity - Weekly - Approved Only"
+  },
+  {
+    "Code": "40237",
+    "Description": "UDF1 Velocity - Weekly - All transactions"
+  },
+  {
+    "Code": "40238",
+    "Description": "UDF1 Velocity - Monthly - Approved Only"
+  },
+  {
+    "Code": "40239",
+    "Description": "UDF1 Velocity - Monthly - All transactions"
+  },
+  {
+    "Code": 70000,
+    "Description": "Validation error"
+  },
+  {
+    "Code": 70001,
+    "Description": "Validation error is unmapped"
+  },
+  {
+    "Code": 70002,
+    "Description": "An error was experienced while parsing the payload. Please ensure that the structure is correct"
+  },
+  {
+    "Code": 70003,
+    "Description": "No parameters were found"
+  },
+  {
+    "Code": 70004,
+    "Description": "Insufficient privileges for this request"
+  },
+  {
+    "Code": 70005,
+    "Description": "Authorization has been denied for this request"
+  },
+  {
+    "Code": 70006,
+    "Description": "Invalid value for 'token'"
+  },
+  {
+    "Code": 70007,
+    "Description": "Invalid token id"
+  },
+  {
+    "Code": 700076,
+    "Description": "Invalid length for 'city' in 'descriptor'"
+  },
+  {
+    "Code": 70008,
+    "Description": "Field 'token' is required"
+  },
+  {
+    "Code": 70009,
+    "Description": "Field 'paymentToken' is required"
+  },
+  {
+    "Code": 70010,
+    "Description": "Invalid value for 'paymentToken'"
+  },
+  {
+    "Code": 70011,
+    "Description": "Field 'chargeMode' is required"
+  },
+  {
+    "Code": 70012,
+    "Description": "Invalid value for 'chargeMode'"
+  },
+  {
+    "Code": 70013,
+    "Description": "Invalid customer id"
+  },
+  {
+    "Code": 70014,
+    "Description": "Invalid email address"
+  },
+  {
+    "Code": 70015,
+    "Description": "Field 'email' is required"
+  },
+  {
+    "Code": 70016,
+    "Description": "Invalid date value in 'created'"
+  },
+  {
+    "Code": 70017,
+    "Description": "Invalid field value length"
+  },
+  {
+    "Code": 70018,
+    "Description": "Invalid phone number"
+  },
+  {
+    "Code": 70019,
+    "Description": "Invalid length for 'phone number'"
+  },
+  {
+    "Code": 70020,
+    "Description": "Field 'phone number' is required"
+  },
+  {
+    "Code": 70021,
+    "Description": "Invalid value for provider id"
+  },
+  {
+    "Code": 70022,
+    "Description": "Invalid value for 'userData'"
+  },
+  {
+    "Code": 70023,
+    "Description": "Field 'lppId' is required"
+  },
+  {
+    "Code": 70024,
+    "Description": "Invalid value for 'lppId'"
+  },
+  {
+    "Code": 70025,
+    "Description": "Field 'localPayment' is required"
+  },
+  {
+    "Code": 70026,
+    "Description": "Invalid value for 'limit'"
+  },
+  {
+    "Code": 70027,
+    "Description": "Invalid value for 'name'"
+  },
+  {
+    "Code": 70028,
+    "Description": "Invalid value for 'region'"
+  },
+  {
+    "Code": 70029,
+    "Description": "Field 'mpiTransactionResponseId' is required"
+  },
+  {
+    "Code": 70030,
+    "Description": "Invalid value for 'mpiTransactionResponseId'"
+  },
+  {
+    "Code": 70031,
+    "Description": "Field 'MD' is required"
+  },
+  {
+    "Code": 70032,
+    "Description": "Invalid value for 'MD'"
+  },
+  {
+    "Code": 70034,
+    "Description": "Invalid card id"
+  },
+  {
+    "Code": 70035,
+    "Description": "Invalid charge id"
+  },
+  {
+    "Code": 70036,
+    "Description": "Invalid value for 'offset'"
+  },
+  {
+    "Code": 70037,
+    "Description": "Invalid value for 'customer'"
+  },
+  {
+    "Code": 70038,
+    "Description": "Invalid value for 'count'"
+  },
+  {
+    "Code": 70039,
+    "Description": "Invalid value for start date"
+  },
+  {
+    "Code": 70040,
+    "Description": "Invalid value for end date"
+  },
+  {
+    "Code": 70041,
+    "Description": "Invalid value for 'ip'"
+  },
+  {
+    "Code": 70042,
+    "Description": "Invalid value for 'country'"
+  },
+  {
+    "Code": 70043,
+    "Description": "Invalid value for 'countryCode'"
+  },
+  {
+    "Code": 70044,
+    "Description": "Invalid 'countryCode' for phone"
+  },
+  {
+    "Code": 70045,
+    "Description": "Invalid 'countryCode' length for phone"
+  },
+  {
+    "Code": 70046,
+    "Description": "Invalid value for 'value'"
+  },
+  {
+    "Code": 70047,
+    "Description": "Invalid value for 'autoCapture'"
+  },
+  {
+    "Code": 70048,
+    "Description": "Invalid value for 'autoCapTime'"
+  },
+  {
+    "Code": 70049,
+    "Description": "Field 'value' is required"
+  },
+  {
+    "Code": 70050,
+    "Description": "Invalid value for 'currency'"
+  },
+  {
+    "Code": 70051,
+    "Description": "Field 'currency' is required"
+  },
+  {
+    "Code": 70052,
+    "Description": "Require both 'autoCapture' and 'autoCapTime' values"
+  },
+  {
+    "Code": 70053,
+    "Description": "Require either a 'card',  'token' value"
+  },
+  {
+    "Code": 70054,
+    "Description": "Require either a 'cardId' or 'card' values"
+  },
+  {
+    "Code": 70055,
+    "Description": "Require either a 'customerId' or 'email' value"
+  },
+  {
+    "Code": 70056,
+    "Description": "Cannot process request with both 'card' and 'token' values"
+  },
+  {
+    "Code": 70057,
+    "Description": "Cannot process request with both 'CustomerID' and 'Email' values"
+  },
+  {
+    "Code": 70058,
+    "Description": "Cannot process request where request has both 'cardid' and card ('name', 'number',  'expiryDay' & 'expiryYear') values"
+  },
+  {
+    "Code": 70059,
+    "Description": "Field 'cvv' number in 'card' is required"
+  },
+  {
+    "Code": 70060,
+    "Description": "Invalid 'cvv' number in 'card'"
+  },
+  {
+    "Code": 70061,
+    "Description": "Invalid 'expiryDay' in 'card'"
+  },
+  {
+    "Code": 70062,
+    "Description": "Field 'expiryMonth' in 'card' is required"
+  },
+  {
+    "Code": 70063,
+    "Description": "Invalid 'expiryMonth' in 'card'"
+  },
+  {
+    "Code": 70064,
+    "Description": "Field 'expiryYear' in 'card' is required"
+  },
+  {
+    "Code": 70065,
+    "Description": "Invalid 'expiryYear' in 'card'"
+  },
+  {
+    "Code": 70066,
+    "Description": "Field 'number' in 'card' is required"
+  },
+  {
+    "Code": 70067,
+    "Description": "Invalid 'number' in 'card'"
+  },
+  {
+    "Code": 70068,
+    "Description": "Field 'name' in 'card' is required"
+  },
+  {
+    "Code": 70069,
+    "Description": "Invalid value for 'name' in 'card'"
+  },
+  {
+    "Code": 70070,
+    "Description": "Field 'token' is required"
+  },
+  {
+    "Code": 70071,
+    "Description": "Field 'cardId' is required"
+  },
+  {
+    "Code": 70072,
+    "Description": "Invalid value for 'transactionIndicator'"
+  },
+  {
+    "Code": 70073,
+    "Description": "Field 'name' in 'descriptor' is required"
+  },
+  {
+    "Code": 70074,
+    "Description": "Field 'city' in 'descriptor' is required"
+  },
+  {
+    "Code": 70075,
+    "Description": "Invalid length for 'name' in 'descriptor'"
+  },
+  {
+    "Code": 70077,
+    "Description": "Expired Card"
+  },
+  {
+    "Code": 70078,
+    "Description": "Invalid plan name"
+  },
+  {
+    "Code": 70079,
+    "Description": "Invalid plan track id"
+  },
+  {
+    "Code": 70080,
+    "Description": "Invalid auto capture time"
+  },
+  {
+    "Code": 70081,
+    "Description": "Invalid value"
+  },
+  {
+    "Code": 70082,
+    "Description": "Invalid currency"
+  },
+  {
+    "Code": 70083,
+    "Description": "Invalid notification"
+  },
+  {
+    "Code": 70084,
+    "Description": "Invalid cycle"
+  },
+  {
+    "Code": 70085,
+    "Description": "Invalid max retry count"
+  },
+  {
+    "Code": 70086,
+    "Description": "Invalid status"
+  },
+  {
+    "Code": 70087,
+    "Description": "Invalid recurring count"
+  },
+  {
+    "Code": 70088,
+    "Description": "Invalid recurring plan id"
+  },
+  {
+    "Code": 70089,
+    "Description": "You should provide either card id or status"
+  },
+  {
+    "Code": 70090,
+    "Description": "Invalid start date"
+  },
+  {
+    "Code": 70100,
+    "Description": "Invalid start date for recurring plan"
+  },
+  {
+    "Code": 70101,
+    "Description": "Field 'thirdPartyId' is required"
+  },
+  {
+    "Code": 70102,
+    "Description": "Invalid value for 'thirdPartyId'"
+  },
+  {
+    "Code": 70103,
+    "Description": "Invalid customer plan id"
+  },
+  {
+    "Code": 70104,
+    "Description": "Invalid next recurring date"
+  },
+  {
+    "Code": 70105,
+    "Description": "Invalid 'cvv' length in 'card'"
+  },
+  {
+    "Code": 70110,
+    "Description": "Invalid value for 'page number'"
+  },
+  {
+    "Code": 70111,
+    "Description": "Invalid value for 'page size'"
+  },
+  {
+    "Code": 70112,
+    "Description": "Invalid value for 'sort order'"
+  },
+  {
+    "Code": 70113,
+    "Description": "Invalid value for 'sort column'"
+  },
+  {
+    "Code": 70114,
+    "Description": "Invalid value for 'filters'"
+  },
+  {
+    "Code": 70115,
+    "Description": "Invalid value for 'ReasonCode'"
+  },
+  {
+    "Code": 70116,
+    "Description": "Invalid value for 'IssueDate'"
+  },
+  {
+    "Code": 70117,
+    "Description": "Invalid value for 'RetrievalDate'"
+  },
+  {
+    "Code": 70121,
+    "Description": "Invalid payment method or currency"
+  },
+  {
+    "Code": 81001,
+    "Description": "Invalid payment currency"
+  },
+  {
+    "Code": 81002,
+    "Description": "Payment method and currency required"
+  },
+  {
+    "Code": 82001,
+    "Description": "System malfunction - Please contact support"
+  },
+  {
+    "Code": 82005,
+    "Description": "Issuer network unavailable"
+  },
+  {
+    "Code": 82006,
+    "Description": "Invalid parameter"
+  },
+  {
+    "Code": 82011,
+    "Description": "Invalid cvv"
+  },
+  {
+    "Code": 82012,
+    "Description": "Invalid postal code"
+  },
+  {
+    "Code": 82013,
+    "Description": "Invalid address"
+  },
+  {
+    "Code": 82014,
+    "Description": "Invalid walletID"
+  },
+  {
+    "Code": 82016,
+    "Description": "Invalid ActionCode"
+  },
+  {
+    "Code": 82017,
+    "Description": "Invalid Customer Number"
+  },
+  {
+    "Code": 82022,
+    "Description": "Invalid Telephone Number"
+  },
+  {
+    "Code": 82023,
+    "Description": "Invalid Country"
+  },
+  {
+    "Code": 82024,
+    "Description": "Invalid City"
+  },
+  {
+    "Code": 82031,
+    "Description": "Invalid payment method"
+  },
+  {
+    "Code": 82040,
+    "Description": "Invalid currency code"
+  },
+  {
+    "Code": 82050,
+    "Description": "Invalid card holder"
+  },
+  {
+    "Code": 82051,
+    "Description": "Invalid Customer IP"
+  },
+  {
+    "Code": 83013,
+    "Description": "Invalid Email"
+  },
+  {
+    "Code": 83020,
+    "Description": "Email already in use"
+  },
+  {
+    "Code": 83021,
+    "Description": "Token Expired"
+  },
+  {
+    "Code": 83022,
+    "Description": "Authentication failed - Invalid Token or Password"
+  },
+  {
+    "Code": 83023,
+    "Description": "Token already used"
+  },
+  {
+    "Code": 83025,
+    "Description": "Manual capture not allowed when autoCapture is true"
+  },
+  {
+    "Code": 83026,
+    "Description": "Refund not allowed when chargeback present"
+  },
+  {
+    "Code": 83027,
+    "Description": "Transaction Refunded"
+  },
+  {
+    "Code": 83028,
+    "Description": "Amount greater than authorised value"
+  },
+  {
+    "Code": 83029,
+    "Description": "Transaction Captured"
+  },
+  {
+    "Code": 83030,
+    "Description": "Amount not equal to original value"
+  },
+  {
+    "Code": 83031,
+    "Description": "Transaction Not Found"
+  },
+  {
+    "Code": 83032,
+    "Description": "Card Not Found"
+  },
+  {
+    "Code": 83033,
+    "Description": "MO/TO Transaction is not allowed"
+  },
+  {
+    "Code": 83034,
+    "Description": "Checkout Server Api is not allowed"
+  },
+  {
+    "Code": 83035,
+    "Description": "Transaction Voided"
+  },
+  {
+    "Code": 83036,
+    "Description": "Missing business service settings"
+  },
+  {
+    "Code": 83037,
+    "Description": "Only 3D transaction can be processed"
+  },
+  {
+    "Code": 83038,
+    "Description": "Amount greater than remaining captured value"
+  },
+  {
+    "Code": 83039,
+    "Description": "Payment token currently in use"
+  },
+  {
+    "Code": 83040,
+    "Description": "Invalid Customer Plan ID"
+  },
+  {
+    "Code": 84009,
+    "Description": "Invalid ID"
+  },
+  {
+    "Code": 84022,
+    "Description": "Invalid channel name"
+  },
+  {
+    "Code": 84040,
+    "Description": "Invalid Channel or token incorrect"
+  },
+  {
+    "Code": 84120,
+    "Description": "Invalid Charge Details"
+  },
+  {
+    "Code": 84121,
+    "Description": "Invalid request"
+  },
+  {
+    "Code": 84123,
+    "Description": "Invalid transaction"
+  },
+  {
+    "Code": 84124,
+    "Description": "Unsupported currency"
+  },
+  {
+    "Code": 84126,
+    "Description": "Invalid Charge id"
+  },
+  {
+    "Code": 84125,
+    "Description": "Invalid Amount"
+  },
+  {
+    "Code": 84127,
+    "Description": "Invalid Card Number"
+  },
+  {
+    "Code": 84128,
+    "Description": "Expired Card"
+  },
+  {
+    "Code": 84129,
+    "Description": "Unable to Authorise"
+  },
+  {
+    "Code": 84130,
+    "Description": "Customer not found"
+  },
+  {
+    "Code": 84131,
+    "Description": "Customer already exists"
+  },
+  {
+    "Code": 84133,
+    "Description": "Unable to determine channel url"
+  },
+  {
+    "Code": 84139,
+    "Description": "Recurring Plan already exists"
+  },
+  {
+    "Code": 84140,
+    "Description": "Recurring Plan does not exist"
+  },
+  {
+    "Code": 84141,
+    "Description": "Unable to delete recurring Plan"
+  },
+  {
+    "Code": 84142,
+    "Description": "Customer Plan does not exist"
+  },
+  {
+    "Code": 84143,
+    "Description": "Unable to delete recurring customer plan"
+  },
+  {
+    "Code": 84146,
+    "Description": "Not configured for 3D-Secure"
+  },
+  {
+    "Code": 84314,
+    "Description": "Invalid webhook request"
+  },
+  {
+    "Code": 84315,
+    "Description": "Invalid create queue request"
+  }
+]

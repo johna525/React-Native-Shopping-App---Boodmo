@@ -1,0 +1,7 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">V2PuhFWJgkjwr3pg4uOxtqjNq0uTc3247f85-345a-469d-98a4-9b4c054107d4</string>
+    <string name="app_name">boodmo</string>
+    <string name="fb_app_id">1635847333341664</string>
+    <string name="fb_login_protocol_scheme">fb1635847333341664</string>
+    <string name="asset_statements" translatable="false">[{\n  \"relation\": [\"delegate_permission/common.handle_all_urls\"],\n  \"target\": {\n    \"namespace\": \"web\",\n    \"site\": \"https://boodmo.com\",\n  }\n}]</string>
+</resources>

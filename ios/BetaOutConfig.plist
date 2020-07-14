@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apiKey</key>
+	<string>blgams44m2hashqo738h3h6hjhnlm97jy8whhjz8b1</string>
+	<key>projectId</key>
+	<string>34589</string>
+	<key>handlePushNotificationsEnabled</key>
+	<true/>
+</dict>
+</plist>
