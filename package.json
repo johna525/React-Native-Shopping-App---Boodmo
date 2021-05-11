@@ -14,7 +14,7 @@
   "dependencies": {
     "Base64": "^1.0.1",
     "base-64": "0.1.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "moment": "2.18.1",
     "moment-timezone": "0.5.13",
     "react": "16.0.0-alpha.6",
