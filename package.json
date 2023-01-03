@@ -18,7 +18,7 @@
     "moment": "2.18.1",
     "moment-timezone": "0.5.13",
     "react": "16.0.0-alpha.6",
-    "react-native": "0.44.0",
+    "react-native": "0.70.6",
     "react-native-code-push": "^2.1.1-beta",
     "react-native-collapsible": "git+https://github.com/drewsetski/react-native-collapsible.git",
     "react-native-credit-card-input": "git+https://github.com/drewsetski/react-native-credit-card-input.git",
@@ -58,7 +58,7 @@
     "eslint": "^4.16.0",
     "eslint-plugin-react": "^7.5.1",
     "invariant": "2.2.2",
-    "jest": "^22.4.2",
+    "jest": "^29.3.1",
     "react-test-renderer": "16.0.0-alpha.6",
     "react-transform-hmr": "1.0.4",
     "remote-redux-devtools": "^0.5.12"
