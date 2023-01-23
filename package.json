@@ -19,7 +19,7 @@
     "moment-timezone": "0.5.13",
     "react": "16.0.0-alpha.6",
     "react-native": "0.44.0",
-    "react-native-code-push": "^2.1.1-beta",
+    "react-native-code-push": "^7.1.0",
     "react-native-collapsible": "git+https://github.com/drewsetski/react-native-collapsible.git",
     "react-native-credit-card-input": "git+https://github.com/drewsetski/react-native-credit-card-input.git",
     "react-native-deprecated-custom-components": "^0.1.0",
